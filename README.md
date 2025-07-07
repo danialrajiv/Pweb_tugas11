@@ -57,10 +57,10 @@ Fitur baru ini bekerja dengan alur sebagai berikut:
 *(Di bagian ini, unggah screenshot aplikasi Anda, lalu ganti placeholder di bawah)*
 
 **Halaman Daftar Siswa dengan Tombol Cetak**
-![Daftar Siswa](URL_GAMBAR_DAFTAR_SISWA.png)
+![Daftar Siswa](https://github.com/danialrajiv/Pweb_tugas11/blob/main/list_siswa.png)
 
 **Contoh Hasil Laporan PDF**
-![Laporan PDF](URL_GAMBAR_LAPORAN_PDF.png)
+![Laporan PDF](https://github.com/danialrajiv/Pweb_tugas11/blob/main/laporan_pdf.png)
 
 ---
 
